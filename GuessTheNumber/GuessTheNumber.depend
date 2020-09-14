@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1599436544 source:c:\workbench\guessthenumber\src\title.cpp
+	"title.h"
+	"computer.h"
+	"player.h"
+	<iostream>
+
+1597243146 c:\workbench\guessthenumber\include\title.h
+
+1599436608 source:c:\workbench\guessthenumber\main.cpp
+	<iostream>
+	"title.h"
+
+1599434942 source:c:\workbench\guessthenumber\src\computer.cpp
+	"computer.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1597242956 c:\workbench\guessthenumber\include\computer.h
+
+1599435883 source:c:\workbench\guessthenumber\src\player.cpp
+	"player.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1597243060 c:\workbench\guessthenumber\include\player.h
+
